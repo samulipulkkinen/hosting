@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 12.1.2//EN
+N:;IT Service Desk;;;
+FN: IT Service Desk   
+EMAIL;type=INTERNET;type=pref:it-servicedesk@sanoma.com
+TEL;type=CELL;type=VOICE;type=pref:0800 417613
+item1.URL;type=pref:http://sanoma.service-now.com/soundportal/
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
